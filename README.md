@@ -1,7 +1,7 @@
 # Image-Search
 
 
-# Assignment 1: Hugging Face Overview
+# 1: Hugging Face Overview
 
 ### Hugging Face Agents
 Hugging Face Agents simplify the creation and management of AI models. They handle training, deployment, and monitoring, making it easier to integrate AI solutions into applications.
